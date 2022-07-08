@@ -1,20 +1,30 @@
 [
   {
+    "id": 1,
     "title": "Onda de lesões desfalca seleções nas competições internacionais do futebol feminino",
     "description": "Ruptura de ligamento é, sozinha, responsável por quatro baixas importantes: Marta na Copa América, Catarina Macario no Campeonato da Concacaf, Alexia e Maroszán na Eurocopa",
-    "image": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/06/onda-de-lesoes-desfalca-selecoes-nas-competicoes-internacionais-do-futebol-feminino.ghtml",
-    "link": "https://s2.glbimg.com/ZGH1fohEBaOfc9v7_BzlpDcZjbU=/0x0:1080x608/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/L/k/GRewM7ShqSybZZPBdJzg/carrossel-lesao.jpg"
+    "image": "https://s2.glbimg.com/ZGH1fohEBaOfc9v7_BzlpDcZjbU=/0x0:1080x608/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/L/k/GRewM7ShqSybZZPBdJzg/carrossel-lesao.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/06/onda-de-lesoes-desfalca-selecoes-nas-competicoes-internacionais-do-futebol-feminino.ghtml"
   },
   {
+    "id": 2,
     "title": "Estaremos prontas para a Copa América",
-    "description": "Apesar de derrotas, Pia mantém confiança na seleção: 'Estaremos prontas para a Copa América'",
+    "description": "Treinadora lamenta chances perdidas contra a Suécia e queda de rendimento físico da equipe",
     "image": "https://s2.glbimg.com/wmcL-AepoH6nWCsF_akH7V7LJCQ=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Z/5/UrETmJQRS7vudaNbOMMA/gettyimages-1241592073.jpg",
     "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/28/apesar-de-derrotas-pia-mantem-confianca-na-selecao-estaremos-prontas-para-a-copa-america.ghtml"
   },
   {
-    "title": "Peça fundamental",
-    "description": "Angelina lamenta ausência de Luana na estreia na Copa América: 'Peça fundamental'",
-    "image": "https://s2.glbimg.com/jtKu0w-e-ZWz-NExxogmhwlTXT0=/0x0:799x533/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/8/y/cQl8b9R2WtO06sqnIFBA/52179734231-f15cde6dcd-c.jpg",
-    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/07/angelina-lamenta-ausencia-de-luana-na-estreia-na-copa-america-peca-fundamental.ghtml"
+    "id": 3,
+    "title": "Copa América começa nesta sexta",
+    "description": "Com favoritismo do Brasil, competição na Colômbia dará US$ 1,5 milhão ao campeão e ainda 3 vagas na Copa do Mundo de 2023 e duas em Paris 2024.",
+    "image": "https://s2.glbimg.com/9HgphsBpAhj5CppsGxdPWLPWtAE=/0x0:799x533/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/c/z/ugh0eHTnabdG4zhMUBlw/52198346502-8fb82d8ac6-c.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-feminino/copa-america-feminina/noticia/2022/07/08/premiacao-inedita-mais-vagas-e-duelo-com-europeu-nova-copa-america-comeca-nesta-sexta.ghtml"
   },
+  {
+    "id": 4,
+    "title": "Estreia marcada",
+    "description": "São Paulo divulga numeração do time feminino e tem nova camisa 10; veja lista.",
+    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
+    "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
+  }
 ]
